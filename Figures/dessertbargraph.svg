@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='432.00pt' height='252.00pt' viewBox='0 0 432.00 252.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: none;'/>
+<defs>
+  <clipPath id='cpMC4wMHw0MzIuMDB8MC4wMHwyNTIuMDA='>
+    <rect x='0.00' y='0.00' width='432.00' height='252.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw0MzIuMDB8MC4wMHwyNTIuMDA=)'>
+</g>
+<defs>
+  <clipPath id='cpOC4yMnw0MjYuNTJ8NS40OHwyMTkuMTM='>
+    <rect x='8.22' y='5.48' width='418.30' height='213.65' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpOC4yMnw0MjYuNTJ8NS40OHwyMTkuMTM=)'>
+<polyline points='97.65,219.13 97.65,5.48 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='238.50,219.13 238.50,5.48 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='379.34,219.13 379.34,5.48 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='27.23,219.13 27.23,5.48 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='168.08,219.13 168.08,5.48 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='308.92,219.13 308.92,5.48 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<rect x='27.23' y='9.93' width='380.27' height='26.71' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #EC8FA3;' />
+<rect x='27.23' y='128.62' width='154.93' height='26.71' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #EE9A49;' />
+<rect x='27.23' y='187.97' width='42.25' height='26.71' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #CDB79E;' />
+<rect x='27.23' y='158.30' width='98.59' height='26.71' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #8D7F99;' />
+<rect x='27.23' y='39.60' width='281.68' height='26.71' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #8C9D57;' />
+<rect x='27.23' y='98.95' width='239.43' height='26.71' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #163343;' />
+<rect x='27.23' y='69.28' width='239.43' height='26.71' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #7AC5CD;' />
+<text x='369.48' y='27.19' style='font-size: 11.04px; fill: #FFFFFF; font-family: Avenir;' textLength='24.94px' lengthAdjust='spacingAndGlyphs'>Cake</text>
+<text x='144.13' y='145.88' style='font-size: 11.04px; fill: #FFFFFF; font-family: Avenir;' textLength='31.89px' lengthAdjust='spacingAndGlyphs'>Choux</text>
+<text x='31.46' y='205.23' style='font-size: 11.04px; fill: #FFFFFF; font-family: Avenir;' textLength='44.54px' lengthAdjust='spacingAndGlyphs'>Financier</text>
+<text x='87.80' y='175.56' style='font-size: 11.04px; fill: #FFFFFF; font-family: Avenir;' textLength='42.71px' lengthAdjust='spacingAndGlyphs'>Macaron</text>
+<text x='270.89' y='56.86' style='font-size: 11.04px; fill: #FFFFFF; font-family: Avenir;' textLength='28.80px' lengthAdjust='spacingAndGlyphs'>Other</text>
+<text x='228.64' y='116.21' style='font-size: 11.04px; fill: #FFFFFF; font-family: Avenir;' textLength='18.16px' lengthAdjust='spacingAndGlyphs'>Tart</text>
+<text x='228.64' y='86.54' style='font-size: 11.04px; fill: #FFFFFF; font-family: Avenir;' textLength='34.52px' lengthAdjust='spacingAndGlyphs'>Verrine</text>
+</g>
+<g clip-path='url(#cpMC4wMHw0MzIuMDB8MC4wMHwyNTIuMDA=)'>
+<text x='27.23' y='230.29' text-anchor='middle' style='font-size: 8.80px; fill: #4D4D4D; font-family: Avenir;' textLength='4.89px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='168.08' y='230.29' text-anchor='middle' style='font-size: 8.80px; fill: #4D4D4D; font-family: Avenir;' textLength='9.78px' lengthAdjust='spacingAndGlyphs'>10</text>
+<text x='308.92' y='230.29' text-anchor='middle' style='font-size: 8.80px; fill: #4D4D4D; font-family: Avenir;' textLength='9.78px' lengthAdjust='spacingAndGlyphs'>20</text>
+<text x='217.37' y='243.35' text-anchor='middle' style='font-size: 11.00px; font-family: Avenir;' textLength='96.78px' lengthAdjust='spacingAndGlyphs'>Number of desserts</text>
+</g>
+</svg>
